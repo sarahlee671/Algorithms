@@ -7,6 +7,8 @@ import sys
 # recursive solution
 def eating_cookies(n, cache=None):
   pass
+  # Find all combinations of 1, 2, 3 that add up to n
+  # Find all possible orderings of those combination
 
 if __name__ == "__main__":
   if len(sys.argv) > 1:
